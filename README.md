@@ -5,4 +5,4 @@ This is a demo Git &amp; Github class
 Mohit Kumar
 
 # Course
-B-tech
+B-tech  (Computer Science)
